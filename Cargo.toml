@@ -1,5 +1,5 @@
 [package]
-name = "bbox-discord-relay"
+name = "gmod-discord-relay"
 version = "0.1.0"
 authors = ["a normal twig"]
 edition = "2021"
